@@ -1,5 +1,5 @@
 #include "stdio.h"
-#include "math.h"
+#include "math.h"       //to compile use -lm
 #define EXP1 "1.0 + 1.0/2.0 + 1.0/3.0 + ..."
 #define EXP2 "1.0 - 1.0/2.0 + 1.0/3.0 + ..."
 
